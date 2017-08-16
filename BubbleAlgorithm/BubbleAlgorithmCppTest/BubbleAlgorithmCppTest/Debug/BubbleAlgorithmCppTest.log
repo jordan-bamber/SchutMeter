@@ -1,0 +1,5 @@
+﻿  BubbleAlgorithmCppTest.cpp
+f:\jordandocs\cs_projects\logston\bubblealgorithm\bubblealgorithmcpptest\bubblealgorithmcpptest\bubblealgorithmcpptest.cpp(28): warning C4101: 'b1': unreferenced local variable
+f:\jordandocs\cs_projects\logston\bubblealgorithm\bubblealgorithmcpptest\bubblealgorithmcpptest\bubblealgorithmcpptest.cpp(68): warning C4101: 'b1': unreferenced local variable
+  BubbleAlgorithmCppTest.vcxproj -> F:\JordanDocs\CS_Projects\Logston\BubbleAlgorithm\BubbleAlgorithmCppTest\Debug\BubbleAlgorithmCppTest.exe
+  BubbleAlgorithmCppTest.vcxproj -> F:\JordanDocs\CS_Projects\Logston\BubbleAlgorithm\BubbleAlgorithmCppTest\Debug\BubbleAlgorithmCppTest.pdb (Partial PDB)
